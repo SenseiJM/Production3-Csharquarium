@@ -1,0 +1,13 @@
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\bin\Debug\netcoreapp3.1\ProductionCsharquarium.exe
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\bin\Debug\netcoreapp3.1\ProductionCsharquarium.deps.json
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\bin\Debug\netcoreapp3.1\ProductionCsharquarium.runtimeconfig.json
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\bin\Debug\netcoreapp3.1\ProductionCsharquarium.runtimeconfig.dev.json
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\bin\Debug\netcoreapp3.1\ProductionCsharquarium.dll
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\bin\Debug\netcoreapp3.1\ProductionCsharquarium.pdb
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\obj\Debug\netcoreapp3.1\ProductionCsharquarium.csproj.AssemblyReference.cache
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\obj\Debug\netcoreapp3.1\ProductionCsharquarium.AssemblyInfoInputs.cache
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\obj\Debug\netcoreapp3.1\ProductionCsharquarium.AssemblyInfo.cs
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\obj\Debug\netcoreapp3.1\ProductionCsharquarium.csproj.CoreCompileInputs.cache
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\obj\Debug\netcoreapp3.1\ProductionCsharquarium.dll
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\obj\Debug\netcoreapp3.1\ProductionCsharquarium.pdb
+E:\DotNet2021\C#\POO\Production3 - Csharquarium\ProductionCsharquarium\ProductionCsharquarium\obj\Debug\netcoreapp3.1\ProductionCsharquarium.genruntimeconfig.cache
